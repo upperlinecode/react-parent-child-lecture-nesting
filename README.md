@@ -1,3 +1,3 @@
-# React state Lab
+# React Parent-Child Lecture: Nesting
 
-This is a finished version of the `react-state-lab` to show students.
+This is a simple React app that shows how components are nested.
