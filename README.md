@@ -1,1 +1,3 @@
-# react-parent-child-lecture-nesting
+# React state Lab
+
+This is a finished version of the `react-state-lab` to show students.
