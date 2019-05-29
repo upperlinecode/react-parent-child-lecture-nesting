@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 // import components
-import ComponentA from './Components/ComponentA.js'
+import ComponentA from './ComponentA.js'
 
 function App() {
   const component = new React.Component();

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css'
+import './App.css'
 // import components
 import ComponentC from './ComponentC.js'
 import ComponentD from './ComponentD.js'
