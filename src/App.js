@@ -3,7 +3,7 @@ import './App.css';
 // import components
 import ComponentA from './ComponentA.js'
 
-function App() {
+const App = () => {
   const component = new React.Component();
   component.state = {}
   
