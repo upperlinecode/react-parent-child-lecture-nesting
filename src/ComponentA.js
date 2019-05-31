@@ -3,7 +3,7 @@ import './App.css'
 // import components
 import ComponentB from './ComponentB.js'
 
-function ComponentA() {
+const ComponentA = () => {
   return(
     <div className="container">
       <h2>This is Component A.</h2>
