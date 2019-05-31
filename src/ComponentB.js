@@ -4,7 +4,7 @@ import './App.css'
 import ComponentC from './ComponentC.js'
 import ComponentD from './ComponentD.js'
 
-function ComponentB() {
+const ComponentB = () => {
   return(
     <div className="container">
       <h3>This is Component B.</h3>
