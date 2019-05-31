@@ -7,12 +7,16 @@ const App = () => {
   const component = new React.Component();
   component.state = {}
   
-  return (
-    <div className="container">
-      <h1>This is the App.</h1>
-      <ComponentA />
-    </div>
-  );
+  component.render = () => {
+    return (
+      <div className="container">
+        <h1>This is the App.</h1>
+        <ComponentA />
+      </div>
+    )
+  }
+  
+  return component
 }
 
 export default App;
