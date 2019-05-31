@@ -8,7 +8,7 @@ function App() {
   component.state = {}
   
   return (
-    <div class="container">
+    <div className="container">
       <h1>This is the App.</h1>
       <ComponentA />
     </div>
