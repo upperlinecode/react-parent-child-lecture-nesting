@@ -3,7 +3,7 @@ import './App.css'
 
 function ComponentD() {
   return(
-    <div class="container">
+    <div className="container">
       <h4>This is Component D.</h4>
     </div>
   )
