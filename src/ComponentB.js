@@ -6,7 +6,7 @@ import ComponentD from './ComponentD.js'
 
 function ComponentB() {
   return(
-    <div class="container">
+    <div className="container">
       <h3>This is Component B.</h3>
       <ComponentC />
       <ComponentD />
