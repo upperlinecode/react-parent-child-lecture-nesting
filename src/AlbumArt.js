@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css'
 
-const ComponentD = () => {
+const AlbumArt = () => {
   return(
     <div className="container">
-      <h4>This is Component D.</h4>
+      <h4>This is the AlbumArt component.</h4>
     </div>
   )
 }
 
-export default ComponentD
+export default AlbumArt
