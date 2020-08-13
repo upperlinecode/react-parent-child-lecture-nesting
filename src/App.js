@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 // import components
-import Artist from './Artist.js';
+import Artist from './components/Artist.js';
 
 function App() {
   return (
